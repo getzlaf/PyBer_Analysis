@@ -12,6 +12,8 @@ From the data that we had to analyze, we can see that PyBer was used to make 2,3
 
 ## Summary
 Here are three recommendations to PyBer to increase their revenues: 
+
+
 1- There are too many drivers in the urban area. For that period of time, there were more drivers than rides made. This is problematic because your drivers don't have a single ride on average. You may want to let some of them go.
 
 
